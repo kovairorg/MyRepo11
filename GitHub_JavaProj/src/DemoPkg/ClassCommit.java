@@ -11,6 +11,7 @@ public class ClassCommit {
 		int i  = 0;
 		if( i == 0) {
 			System.out.println("ClassCommit");
+			System.out.println("ClassCommit2222");
 		}
 	}
 
